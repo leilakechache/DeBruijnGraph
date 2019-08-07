@@ -46,9 +46,4 @@ cmake -DBUILD_translucent=ON ..
 
 ## Documentation
 
-Documentation for each of the executables can be found in
-
  * [goss](docs/goss.md)
- * [gossple](docs/gossple.md)
- * [xenome](docs/xenome.md)
- * [electus](docs/electus.md)
