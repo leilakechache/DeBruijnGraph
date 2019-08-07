@@ -32,17 +32,6 @@ make test
 make install
 ```
 
-To disable building unit tests (these can take a while):
-
-```bash
-cmake -DBUILD_tests=OFF ..
-```
-
-To build translucent:
-
-```bash
-cmake -DBUILD_translucent=ON ..
-```
 
 ## Goss Documentation
 
