@@ -40,9 +40,8 @@ TARGET_LINK_LIBRARIES(gosslib
 
 
 ADD_LIBRARY(gossapp
-	GossApp.cc GossOption.cc 
+	GossApp.cc GossOption.cc GossCmdHelp.cc
 	GossCmdBuildGraph.cc
-	#GossCmdLintGraph.cc
 	GossCmdPrintContigs.cc
 	${Boost_PROGRAM_OPTIONS_LIBRARY}
 )
