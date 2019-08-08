@@ -1,3 +1,11 @@
+This is a stripped-down version of Gossamer.
+
+It includes only one functionality:
+* build the de Bruijn graph from reads
+* print contigs
+
+The purpose of this repository is to provide a smaller codebase of Gossamer for researchers who are only interested in building de Bruijn graphs, and not a complete assembler codebase.
+
 # Gossamer bioinformatics suite
 
 ## Prerequisites
